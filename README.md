@@ -64,6 +64,9 @@ The complete algorithm follows the stages described in the report (pages 1–3):
 
 ## Project Structure
 
+## Project Structure
+
+```text
 .
 ├── main.py
 ├── Im321.png
@@ -72,7 +75,7 @@ The complete algorithm follows the stages described in the report (pages 1–3):
 │   ├── metrics/
 │   └── config.txt
 └── MV6_Sadeghi6.pdf
-
+```
 ##Installation
 pip install opencv-python numpy matplotlib scikit-learn
 
