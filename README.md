@@ -62,7 +62,6 @@ The complete algorithm follows the stages described in the report (pages 1–3):
 
 ---
 
-## Project Structure
 
 ## Project Structure
 
