@@ -76,10 +76,10 @@ The complete algorithm follows the stages described in the report (pages 1–3):
 │   └── config.txt
 └── MV6_Sadeghi6.pdf
 ```
-##Installation
+## Installation
 pip install opencv-python numpy matplotlib scikit-learn
 
-##Running the Project
+## Running the Project
 python main.py
 
 Outputs will appear under the outputs/ directory, including:
@@ -88,6 +88,6 @@ Confusion matrix heatmaps
 Accuracy and per-class metrics
 Run configuration
 
-##Documentation
+## Documentation
 Full algorithm explanation, parameter tables, and experimental results are available in:
 MV6_Sadeghi6.pdf
