@@ -76,11 +76,13 @@ The complete algorithm follows the stages described in the report (pages 1–3):
 └── MV6_Sadeghi6.pdf
 ```
 ## Installation
+```bash
 pip install opencv-python numpy matplotlib scikit-learn
-
+```
 ## Running the Project
+```bash
 python main.py
-
+```
 Outputs will appear under the outputs/ directory, including:
 LORO labeled predictions
 Confusion matrix heatmaps
