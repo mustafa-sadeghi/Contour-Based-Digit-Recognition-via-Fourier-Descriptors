@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-06T22:47:50",
+  "image_path": "Im321.png",
+  "reduction_percentages": [
+    0.2,
+    0.1,
+    0.05,
+    0.02,
+    0.01
+  ],
+  "n_points": 512,
+  "knn_k": 5,
+  "knn_weights": "distance",
+  "mid_band": [
+    4,
+    12,
+    1.4
+  ],
+  "EXPECTED_ROWS": 8,
+  "select_leftmost_n": 10
+}
